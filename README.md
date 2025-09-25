@@ -1,10 +1,11 @@
 # Chrome-Dinosaur-Game (unity 2D)
-
-A tiny Unity 2D remake of the Chrome Dino runner.
+- A tiny Unity 2D remake of the Chrome Dino runner.
 
 # Controls
+- Space/Up: Jump
 
-Space/Up: Jump
+## Run
+- Open in Unity 6, load the main scene, press Play.
 
 <img width="1597" height="879" alt="image" src="https://github.com/user-attachments/assets/9b9878d5-2464-4f7f-98b7-dbf171c0baa1" />
 
